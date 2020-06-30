@@ -1,0 +1,13 @@
+C:\Dev\sendkeys\src\SendKeys\bin\Debug\SendKeys.exe.config
+C:\Dev\sendkeys\src\SendKeys\bin\Debug\SendKeys.exe
+C:\Dev\sendkeys\src\SendKeys\bin\Debug\SendKeys.pdb
+C:\Dev\sendkeys\src\SendKeys\obj\Debug\SendKeys.csprojAssemblyReference.cache
+C:\Dev\sendkeys\src\SendKeys\obj\Debug\SendKeys.Properties.Resources.resources
+C:\Dev\sendkeys\src\SendKeys\obj\Debug\SendKeys.csproj.GenerateResource.cache
+C:\Dev\sendkeys\src\SendKeys\obj\Debug\SendKeys.csproj.CoreCompileInputs.cache
+C:\Dev\sendkeys\src\SendKeys\obj\Debug\SendKeys.exe
+C:\Dev\sendkeys\src\SendKeys\obj\Debug\SendKeys.pdb
+C:\Dev\sendkeys\src\SendKeys\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\sendkeys\src\SendKeys\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\sendkeys\src\SendKeys\obj\Debug\SendKeys.csproj.CopyComplete
+C:\Dev\sendkeys\src\SendKeys\obj\Debug\SendKeys.frmAbout.resources

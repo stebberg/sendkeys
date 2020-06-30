@@ -1,0 +1,8 @@
+{
+"TextEditor":"Notepad.exe",
+"Senders":
+[
+{"Name": "Send hello", "Delay":1500, "Keys": "Hello{ENTER}"},
+{"Name": "Address", "Delay":1500, "Keys": "Test{TAB}Testsson{TAB}Testgatan 1{TAB}{TAB}Teststad{TAB}{TAB}stefan.berg@apoteket.se{TAB}0761389791"}
+]
+}
